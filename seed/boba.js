@@ -48,7 +48,7 @@ const main = async () => {
     {
       name: 'Kung Fu Tea',
       description: 'lmao',
-      rating: 'Rating: ⭐ ⭐ ⭐ ⭐ ',
+      rating: 'Rating: ⭐ ⭐ ⭐ ',
       price: 'lol',
       image:
         'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/uju1ij77jzpkunntdkky',
