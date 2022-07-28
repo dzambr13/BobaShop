@@ -9,4 +9,6 @@ const Review = new Schema(
   { timestamps: true }
 )
 
+// console.log('created review model')
+
 module.exports = mongoose.model('Review', Review)
