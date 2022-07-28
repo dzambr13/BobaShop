@@ -14,5 +14,6 @@ const Home = () => {
 }
 
 // console.log('made title for homepage')
+// console.log('CSS for title')
 
 export default Home
