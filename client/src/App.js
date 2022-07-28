@@ -39,6 +39,7 @@ function App() {
   // console.log('created useState for app function')
   // console.log('boba page seen')
   // console.log('bringing backend post to frontend')
+  // console.log('nav bar showing')
 
   return (
     <div className="App">
