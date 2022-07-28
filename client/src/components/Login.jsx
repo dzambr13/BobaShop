@@ -33,7 +33,7 @@ const Form = (props) => {
     // console.log('deleting review')
   }
 
-
+  // console.log('posts title made with inputs')
   return (
     <div>
       <h1 className="post-title">Please share your thoughts and opinions about the Boba shops here!</h1>
