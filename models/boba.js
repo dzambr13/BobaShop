@@ -12,4 +12,6 @@ const Boba = new Schema(
   { timestamps: true }
 )
 
+// console.log('boba model created')
+
 module.exports = mongoose.model('Boba', Boba)
