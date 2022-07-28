@@ -14,5 +14,6 @@ const Nav = () => {
 }
 
 // console.log('home linked to nav')
+// console.log('boba shop linked to navbar')
 
 export default Nav
