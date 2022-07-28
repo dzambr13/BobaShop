@@ -13,4 +13,6 @@ const Home = () => {
     )
 }
 
+// console.log('made title for homepage')
+
 export default Home
