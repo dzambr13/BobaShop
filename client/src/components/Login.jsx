@@ -21,14 +21,14 @@ const Form = (props) => {
   const handleSubmit = async (e) => {
     e.preventDefault()
     console.log('submit')
-    let res = axios.post('http://localhost:3001/api/reviewcreate', postValues)
+    let res = axios.post('/api/reviewcreate', postValues)
     props.getPost()
     // console.log(postValues)
     // console.log('creating posts')
   }
 
   const deleteReview = async (id) => {
-    let res = await axios.delete(`http://localhost:3001/api/review/${id}`)
+    let res = await axios.delete(`/api/review/${id}`)
     props.getPost()
     // console.log('deleting review')
   }
