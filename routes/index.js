@@ -14,14 +14,4 @@ router.delete('/review/:id', reviewController.deleteReview)
 
 // -------------
 
-router.get('/boba', bobaController.getAllBobas)
-
-router.get('/boba/:id', bobaController.getBoba)
-
-// router.post('/boba', bobaController.createAccount)
-
-// router.put('/review/:id', controllers.updateBoba)
-
-// router.delete('/bobas/:id', controllers.createAccount)
-
 module.exports = router
