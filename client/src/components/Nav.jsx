@@ -13,4 +13,6 @@ const Nav = () => {
     )
 }
 
+// console.log('home linked to nav')
+
 export default Nav
