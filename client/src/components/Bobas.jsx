@@ -6,7 +6,8 @@ const Bobas = (props) => {
     const showBoba = (boba) => {
         navigate(`${boba._id}`)
     }
-    console.log(props)
+    // console.log(props)
+    // console.log('showing page with picture')
 return (
     <div className="boba-grid">
             {
