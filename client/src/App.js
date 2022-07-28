@@ -37,6 +37,7 @@ function App() {
   // console.log('boba shops not showing up')
   // console.log('made function')
   // console.log('created useState for app function')
+  // console.log('boba page seen')
 
   return (
     <div className="App">
