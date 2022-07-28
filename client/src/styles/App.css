@@ -56,8 +56,6 @@
 .Navie {
   display: flex;
   justify-content: space-around;
-
-  /* background-color: lightcoral; */
 }
 
 h4 {

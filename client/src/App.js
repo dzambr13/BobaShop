@@ -10,7 +10,7 @@ import Login from './components/Login'
 import Thanks from './components/Thanks'
 // import review from '../../models/review'
 
-const BASE_URL = 'http://localhost:3001/api'
+const BASE_URL = '/api'
 
 function App() {
   const [postValues, setPostValues] = useState([])
