@@ -2,7 +2,7 @@ import axios from 'axios'
 import { useEffect, useState } from 'react'
 import { useParams } from "react-router-dom"
 
-const BASE_URL = 'http://localhost:3001/api'
+const BASE_URL = '/api'
 
 const BobaDetails = (props) => {
     
