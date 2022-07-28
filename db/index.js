@@ -12,4 +12,6 @@ mongoose
 
 const db = mongoose.connection
 
+// console.log('db index successful')
+
 module.exports = db
