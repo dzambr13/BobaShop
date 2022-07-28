@@ -74,4 +74,6 @@ function App() {
 export default App
 
 // mondoDB link
-// mongodb+srv://dzambr:<password>@bobashop.c9yoy.mongodb.net/?retryWrites=true&w=majority
+// mongodb+srv://dzambr:1234@bobashop.c9yoy.mongodb.net/?retryWrites=true&w=majority
+
+// heroku config:set MONGODB_URI='mongodb+srv://dzambr:1234@bobashop.c9yoy.mongodb.net/?retryWrites=true&w=majority'
