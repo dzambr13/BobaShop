@@ -72,3 +72,6 @@ function App() {
 }
 
 export default App
+
+// mondoDB link
+// mongodb+srv://dzambr:<password>@bobashop.c9yoy.mongodb.net/?retryWrites=true&w=majority
