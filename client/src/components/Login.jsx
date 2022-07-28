@@ -10,6 +10,8 @@ const Form = (props) => {
     rating: ''
   }
 
+//   console.log('initial state running')
+
   const [postValues, setPostValues] = useState(initialState)
 
   const handleChange = event => {
