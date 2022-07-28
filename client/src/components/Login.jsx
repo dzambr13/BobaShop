@@ -30,6 +30,7 @@ const Form = (props) => {
   const deleteReview = async (id) => {
     let res = await axios.delete(`http://localhost:3001/api/review/${id}`)
     props.getPost()
+    // console.log('deleting review')
   }
 
 
