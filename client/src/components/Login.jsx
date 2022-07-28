@@ -23,7 +23,8 @@ const Form = (props) => {
     console.log('submit')
     let res = axios.post('http://localhost:3001/api/reviewcreate', postValues)
     props.getPost()
-    console.log(postValues)
+    // console.log(postValues)
+    // console.log('creating posts')
   }
 
   const deleteReview = async (id) => {
