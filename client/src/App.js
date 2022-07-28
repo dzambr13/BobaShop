@@ -40,6 +40,7 @@ function App() {
   // console.log('boba page seen')
   // console.log('bringing backend post to frontend')
   // console.log('nav bar showing')
+  // console.log('added route path to boba shop page')
 
   return (
     <div className="App">
