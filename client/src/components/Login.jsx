@@ -81,5 +81,6 @@ const Form = (props) => {
 }
 
 //console.log('crud post')
+//console.log('crud delete')
 
 export default Form
