@@ -19,6 +19,7 @@ const getBoba = async (req, res) => {
 }
 
 // console.log('boba controllers made but not working')
+// console.log('boba controller working')
 
 module.exports = {
   getAllBobas,
