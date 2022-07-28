@@ -21,5 +21,7 @@ return (
     )
 }
 
+// console.log('images showing on boba page')
+
 export default Bobas
 
