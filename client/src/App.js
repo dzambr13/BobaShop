@@ -34,6 +34,8 @@ function App() {
     getPost()
   }, [])
 
+  // console.log('boba shops not showing up')
+
   return (
     <div className="App">
       <header>
