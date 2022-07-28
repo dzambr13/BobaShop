@@ -14,7 +14,7 @@ const main = async () => {
       rating: 'Rating: ⭐ ⭐ ⭐ ⭐ ',
       price: 'Pricing: $$',
       image:
-        'https://lh3.googleusercontent.com/wd2QrM-WJDMosys6nMrCQOirfDsAT-NJkJbtw7ZR3jeqxLb9S3rS0IavLMN-cDyypIVq',
+        'https://pbs.twimg.com/profile_images/1150088858782052352/QM14STVN_400x400.jpg',
       Review: '',
       id: '62e080b83561a34cb2166df5'
     },
