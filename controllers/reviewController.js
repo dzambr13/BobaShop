@@ -43,6 +43,8 @@ const deleteReview = async (req, res) => {
   }
 }
 
+// console.log('controller review made')
+
 module.exports = {
   createReview,
   getAllReviews,
