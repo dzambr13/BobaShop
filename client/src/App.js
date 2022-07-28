@@ -35,6 +35,7 @@ function App() {
   }, [])
 
   // console.log('boba shops not showing up')
+  // console.log('made function')
 
   return (
     <div className="App">
