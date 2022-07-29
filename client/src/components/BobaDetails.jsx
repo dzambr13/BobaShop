@@ -38,6 +38,7 @@ const BobaDetails = (props) => {
                 <div style={{display: 'flex', justifyContent:'flex-end', alignItems: 'right', flexDirection: 'column'}}>
                     <h2>{boba.price}</h2>
                     <h2>{boba.rating}</h2>
+                    <h2>{boba.location}</h2>
                 </div>
                 <h3>{boba.description}</h3>
             </div>
