@@ -6,7 +6,7 @@ const Home = () => {
                 src="(insert boba image here)"
                 alt="logo" /> */}
         </div><div>
-                <h1 className="mainTitle">Boba is life, Ball is hobby</h1>
+                <h1 className="mainTitle">Boba is life</h1>
                 {/* <h3>Welcome, please see our boba shops</h3>
                 <h3>to find the right fit for you!</h3> */}
             </div></>
