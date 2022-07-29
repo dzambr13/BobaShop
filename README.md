@@ -27,16 +27,18 @@
 
 ### Planning
 
-![CHD](https://cdn.discordapp.com/attachments/994991543712751756/1001140360061407274/unknown.png)
+![CHD](https://cdn.discordapp.com/attachments/994991543712751756/1002558861309386852/unknown.png)
 
-![ERD](https://cdn.discordapp.com/attachments/994991543712751756/1001138141832417330/unknown.png)
+![ERD](https://cdn.discordapp.com/attachments/994991543712751756/1002558921933869196/unknown.png)
+
+~![FrontPage](https://cdn.discordapp.com/attachments/994991543712751756/1002559447056519188/unknown.png)
 
 ---
 
 ### **_Future Updates_**
 
+- [x] Implement title flicker
 - [] Show comment section between below shop
-- [] Implement title flicker
 - [] Add page tansitions
 
 ---
