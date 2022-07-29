@@ -184,6 +184,7 @@ img {
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
   width:100px;
+  filter: drop-shadow(10px 10px 10px black);
 }
 
 .bobatitles {
