@@ -16,11 +16,7 @@
 
 ### **_Getting Started_**
 
-### Trello
-
 #### [Trello] (https://trello.com/b/KfrNL1LF/project-1)
-
-### Heroku
 
 #### [Heroku] (https://takeutothebobashop.herokuapp.com/)
 
