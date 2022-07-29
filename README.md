@@ -29,7 +29,7 @@
 
 ![CHD](https://cdn.discordapp.com/attachments/994991543712751756/1002558861309386852/unknown.png)
 
-![ERD](https://cdn.discordapp.com/attachments/994991543712751756/1002558921933869196/unknown.png)
+![ERD](https://cdn.discordapp.com/attachments/994991543712751756/1002588311543627806/unknown.png)
 
 ~![FrontPage](https://cdn.discordapp.com/attachments/994991543712751756/1002559447056519188/unknown.png)
 
