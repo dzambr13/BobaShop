@@ -65,6 +65,12 @@ function App() {
             }
           />
           <Route path="/Thanks" element={<Thanks />} />
+          <Route
+            path="/Update"
+            element={
+              <Update postValues={postValues} setPostValues={setPostValues} />
+            }
+          />
         </Routes>
       </main>
     </div>
