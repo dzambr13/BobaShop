@@ -6,19 +6,13 @@
 
 [GitHub | LinkedIn](https://github.com/dzambr13)
 
+#### [Trello] (https://trello.com/b/KfrNL1LF/project-1)
+
 ---
 
 ### **_Description_**
 
 #### With Boba being an upcoming popular item, I've decided to dedicate a website to a few popular shops with their locations and details.
-
----
-
-### **_Getting Started_**
-
-#### [Trello] (https://trello.com/b/KfrNL1LF/project-1)
-
-#### [Heroku] (https://takeutothebobashop.herokuapp.com/)
 
 ---
 
@@ -54,6 +48,8 @@
 ---
 
 ### **_Credits_**
+
+#### [Heroku] (https://takeutothebobashop.herokuapp.com/)
 
 #### [Markdown] (https://github.com/SEI-R-6-21/u1_hw_markdown)
 
