@@ -4,13 +4,17 @@
 
 ## By: Dave Zambrano
 
-[GitHub | LinkedIn | Vettery](https://github.com/dzambr13)
+[GitHub | LinkedIn](https://github.com/dzambr13)
 
 ---
 
 ### **_Description_**
 
-#### For this MERN project, I would like to create an United States specific map that locates boba drinking shops within a certain radius of a desired area.
+#### With Boba being a more popular item, I've decided to dedicate a website to a few popular shops with their locations and details.
+
+---
+
+### **_Getting Started_**
 
 ---
 
@@ -27,7 +31,7 @@
 
 ---
 
-### **_Screenshot(s)_**
+### **_Screenshots_**
 
 ### Homepage
 
