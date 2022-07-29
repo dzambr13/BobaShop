@@ -10,11 +10,19 @@
 
 ### **_Description_**
 
-#### With Boba being a more popular item, I've decided to dedicate a website to a few popular shops with their locations and details.
+#### With Boba being an upcoming popular item, I've decided to dedicate a website to a few popular shops with their locations and details.
 
 ---
 
 ### **_Getting Started_**
+
+### Trello
+
+#### [Trello] (https://trello.com/b/KfrNL1LF/project-1)
+
+### Heroku
+
+#### [Heroku] (https://takeutothebobashop.herokuapp.com/)
 
 ---
 
@@ -52,8 +60,6 @@
 ### **_Credits_**
 
 #### [Markdown] (https://github.com/SEI-R-6-21/u1_hw_markdown)
-
-#### [Trello] (https://trello.com/b/KfrNL1LF/project-1)
 
 #### [CHD] (https://app.diagrams.net/#G1uxsIA5IFTzmOyMsQoNvY68MPXTQTh64_)
 
