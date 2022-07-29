@@ -20,6 +20,10 @@
 - Express
 - React.js
 - Node.js
+- HTML
+- CSS
+- JavaScript
+- Mongo Atlas
 
 ---
 
@@ -27,13 +31,9 @@
 
 ### Planning
 
-![CHD](https://cdn.discordapp.com/attachments/994991543712751756/1002558861309386852/unknown.png)
+![FrontPage](https://cdn.discordapp.com/attachments/994991543712751756/1002559447056519188/unknown.png)
 
-![ERD](https://cdn.discordapp.com/attachments/994991543712751756/1002588311543627806/unknown.png)
-
-~![FrontPage](https://cdn.discordapp.com/attachments/994991543712751756/1002559447056519188/unknown.png)
-
----
+![BobaShop](https://cdn.discordapp.com/attachments/994991543712751756/1002592190628905030/unknown.png)
 
 ### **_Future Updates_**
 
