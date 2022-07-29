@@ -29,27 +29,30 @@ const main = async () => {
     },
     {
       name: 'Ding Tea',
-      description: 'lol',
+      description:
+        'Blending fresh tea + strict tea selection + Exclusive and unique taste.',
       rating: 'Rating: ⭐ ⭐ ⭐ ',
-      price: 'lol',
+      price: 'Pricing: $$',
       image:
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MzJVlNGXXrtk02PTMbhGQ30zw1GP7NwwOM53bD8W81WEubDtBRiykZGFBho6PfO3jI0&usqp=CAU',
       id: '62e080b83561a34cb2166df7'
     },
     {
       name: 'iTea',
-      description: 'lol',
+      description:
+        'Our drinks with quality and provide a wide variety of many different tea',
       rating: 'Rating: ⭐ ⭐ ⭐ ⭐ ',
-      price: 'lol',
+      price: 'Pricing: $',
       image:
         'https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_300,h_300,f_auto,fl_lossy,q_100,c_fit/ghy2jgraamuvgmdatdng',
       id: '62e080b83561a34cb2166df8'
     },
     {
       name: 'Kung Fu Tea',
-      description: 'lmao',
+      description:
+        'Fearless world of bubble tea boba and other tasty, refreshing beverages!',
       rating: 'Rating: ⭐ ⭐ ⭐ ',
-      price: 'lol',
+      price: 'Pricing: $$',
       image:
         'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/uju1ij77jzpkunntdkky',
       id: '62e080b83561a34cb2166df9'
