@@ -8,7 +8,7 @@ const Boba = new Schema(
     rating: { type: String, required: true },
     price: { type: String, required: true },
     image: { type: String, required: true },
-    location: { Type: String, required: true }
+    location: { type: String }
   },
   { timestamps: true }
 )
