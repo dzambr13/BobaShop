@@ -44,3 +44,15 @@
 ---
 
 ### **_Credits_**
+
+#### [Markdown] (https://github.com/SEI-R-6-21/u1_hw_markdown)
+
+#### [Trello] (https://trello.com/b/KfrNL1LF/project-1)
+
+#### [CHD] (https://app.diagrams.net/#G1uxsIA5IFTzmOyMsQoNvY68MPXTQTh64_)
+
+#### [ERD] (https://app.diagrams.net/#G1vR6mUjlK_WNVVCxjZyRtsOdPEJSjUHFN)
+
+#### [MongoAtlas] (https://cloud.mongodb.com/v2/62e2d74de091573352980c0a#metrics/replicaSet/62e2d811fb74452fccdda694/explorer/test/bobas/find)
+
+#### [MongoDB] (https://dashboard.heroku.com/apps/takeutothebobashop/settings)
