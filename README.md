@@ -29,9 +29,11 @@
 
 ### **_Screenshot(s)_**
 
-### Planning
+### Homepage
 
 ![FrontPage](https://cdn.discordapp.com/attachments/994991543712751756/1002559447056519188/unknown.png)
+
+### Boba Shop Screen
 
 ![BobaShop](https://cdn.discordapp.com/attachments/994991543712751756/1002592190628905030/unknown.png)
 
