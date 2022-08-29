@@ -34,16 +34,6 @@ function App() {
     getPost()
   }, [])
 
-  // console.log('boba shops not showing up')
-  // console.log('made function')
-  // console.log('created useState for app function')
-  // console.log('boba page seen')
-  // console.log('bringing backend post to frontend')
-  // console.log('nav bar showing')
-  // console.log('added route path to boba shop page')
-  // console.log('routed homepage into nav bar')
-  // console.log('routed posting into frontend')
-
   return (
     <div className="App">
       <header>

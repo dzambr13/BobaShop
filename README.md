@@ -33,7 +33,7 @@
 
 ### Homepage
 
-![FrontPage](https://cdn.discordapp.com/attachments/994991543712751756/1002559447056519188/unknown.png)
+![FrontPage](https://media.discordapp.net/attachments/626597292769673217/1013645771243012128/unknown.png?width=805&height=385)
 
 ### Boba Shop Screen
 

@@ -76,6 +76,7 @@ const Form = (props) => {
           ))
         }
       </div>
+        <Link className='Update'/>
     </div>
   )
 }
